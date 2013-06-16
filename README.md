@@ -2,7 +2,7 @@
 
 Lightweight authentication for OmniAuth
 
-:bangbang: Not ready for production use
+:bangbang: In development - do not use
 
 ## Usage
 
